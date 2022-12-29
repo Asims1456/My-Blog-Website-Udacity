@@ -22,12 +22,11 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
 img.resize {
     height:50px;
     width:50px;
 }
-
-
 
 img{
     width: 100%;
